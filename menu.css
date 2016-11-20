@@ -1,0 +1,31 @@
+      .menu a{
+      	display:block;
+      	color:#076D00;
+      	text-decoration:none;
+      	background:#C5B79D;
+      	padding-bottom:10px;
+      }
+      .menu ul{
+      	display:flex;
+      	margin-bottom:10px;
+      	justify-content:space-around;
+      }
+      .menu li{
+          text-align:center;
+      }
+      /*li.l1{
+      	margin-left:10px;
+      }
+      li.l3{
+      	margin-right:10px;
+      }*/
+      section h4{
+      	padding:5px 0px 0px 5px;
+      	color:#8FD3B8;
+      }
+      section.menu{
+/*      	margin:5px 5px 20px 5px;*/
+      	border-radius:10px;
+      	background:rgba(255,255,255,0.3);
+      	
+      }
